@@ -1,4 +1,4 @@
-# quote-creator
+# Quote-Creator
 
 ## About
 Implement the web application that utilizes asynchronous Fetch requests to communicate with a REST API 

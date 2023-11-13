@@ -7,7 +7,7 @@ body {
     margin: 0;
     /* always full background */
     min-height: 100vh; 
-    background-image: url("/assets/bg.jpg");
+    background-image: url('./assets/bg.jpg');
     background-size: cover;
     color: black;
     font-family: Playpen Sans, sans-serif;
